@@ -1,5 +1,3 @@
-using System;
-
 namespace FCG.Shared.Events;
 
 public record UserCreatedEvent(
